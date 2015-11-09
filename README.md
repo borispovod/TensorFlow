@@ -1,2 +1,3 @@
 # TensorFlow
-http://tensorflow.org/
+
+In progress Nodejs implementation
